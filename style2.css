@@ -1,0 +1,76 @@
+@media only screen and (max-width: 650px){}
+
+#font
+{
+    font-family: "Lucida Handwriting", "Courier New", monospace;
+}
+
+body{
+    text-align: center;
+}
+.topnav{
+    overflow: hidden;
+    background-color: rgb(155, 173, 228);
+}
+.topnav a{
+    float:left;
+    display:block;
+    color: rgb(3, 8, 22);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+}
+.topnav a:hover {
+background-color:royalblue ;
+color: silver;
+}
+
+#one {
+    width: 20%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 5px;
+
+  text-align:left;
+  padding: 50px 20px;
+  padding-top: 15px;
+  display: inline-block;
+  margin: 30px;
+}
+
+#two{
+    width: 20%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 5px;
+  
+    text-align:left;
+    padding: 50px 20px;
+    padding-top: 15px;
+    display: inline-block;
+    margin: 30px;
+}
+.word{
+    font-family: 'Coming Soon';font-size: 22px;
+}
+#three{
+    
+    width: 20%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 5px;
+
+  text-align:left;
+  padding: 50px 20px;
+  padding-top: 15px;
+  display: inline-block;
+  margin: 30px;
+}
+
+.recommend{
+    background-image: url(bottom.jpg);
+}
+#recomend{
+    color: rgb(252, 252, 252);
+    
+}

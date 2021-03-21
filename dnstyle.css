@@ -1,0 +1,161 @@
+@media only screen and (max-width: 650px){}
+
+body{
+    background-color: rgb(195, 212, 236);
+}
+#font
+{
+    font-family: "Lucida Handwriting", "Courier New", monospace;
+    text-align: center;
+}
+.topnav{
+    overflow: hidden;
+    background-color: rgb(155, 173, 228);
+}
+.topnav a{
+    float:left;
+    display:block;
+    color: rgb(3, 8, 22);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+}
+.topnav a:hover {
+background-color:royalblue ;
+color: silver;
+}
+
+
+#dn{
+    text-align: center;
+    font-family: 'Jacques Francois Shadow';font-size: 50px;
+}
+#cbac{
+    text-align: center;
+}
+#foodthree {    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.prepare {
+  text-align: center;
+  width: 430px;
+  height: 10px;
+  padding: 15px;
+  background-color: #50a8db;
+  box-shadow: 10px 10px 5px grey;
+  margin: 70px;
+  margin-bottom: 0px;
+}
+
+.cailiao{
+  border: 0px solid black;
+  background-color: lightblue;
+  width: 400px;
+  margin-top: 0px;
+  margin-left: 70px;
+  margin-bottom: 4px;
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+  box-shadow: 10px 10px 5px grey;
+}
+
+
+
+.step{
+  width: 730px;
+  height: 10px;
+  padding: 15px;
+  background-color: #50a8db;
+  box-shadow: 10px 10px 5px grey;
+  margin: 0px 50px 75px 600px;
+  margin-bottom: 0px;
+  position: relative;
+  top: -6.1cm;
+  
+}
+
+.buzhou{
+  border: 0px solid black;
+  background-color: lightblue;
+  width: 700px;
+  height: 127px;
+  margin:0px 50px 75px 600px ;
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+  box-shadow: 10px 10px 5px grey;
+  position: relative;
+  top: -6.1cm;
+}
+
+#ha{
+    text-align: center;
+}
+
+.top{
+  text-align: center;
+  width: 430px;
+  height: 10px;
+  padding: 15px;
+  background-color: #50a8db;
+  box-shadow: 10px 10px 5px grey;
+  margin: 70px;
+  margin-bottom: 0px;
+  position: relative;
+  top: -0.3cm;
+}
+
+.prp{
+    border: 0px solid black;
+    background-color: lightblue;
+    width: 400px;
+    margin-top: 0px;
+    margin-left: 70px;
+    margin-bottom: 4px;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    box-shadow: 10px 10px 5px grey;
+    position: relative;
+    top: -0.3cm;
+}
+
+.stp{
+  width: 730px;
+  height: 10px;
+  padding: 15px;
+  background-color: #50a8db;
+  box-shadow: 10px 10px 5px grey;
+  margin: 0px 50px 75px 600px;
+  margin-bottom: 0px;
+  position: relative;
+  top: -9.3cm;
+}
+
+.lol{
+  border: 0px solid black;
+  background-color: lightblue;
+  width: 700px;
+  height: 240px;
+  margin:0px 50px 75px 600px ;
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+  box-shadow: 10px 10px 5px grey;
+  position: relative;
+  top: -9.3cm;
+}
+#one{
+    position: relative;
+    bottom: 3cm;
+    margin: 1cm;
+}
